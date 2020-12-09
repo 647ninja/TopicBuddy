@@ -61,5 +61,5 @@ a = ["Basic Exploitation",
 
 print("Let's study, how about?:",random.choice(a)),
 input("Press Enter to Start timer")
-countdown(1),
+countdown(30),
 print("Finished!, Well done, have a Good Day!")
