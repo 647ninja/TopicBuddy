@@ -50,3 +50,7 @@ DevOps Basics
 DevSecOps Basics
 Pipeline Basics
 Capture the Flags
+Cryptography
+Basic Knowledge
+Network Security
+Program Exploitation
